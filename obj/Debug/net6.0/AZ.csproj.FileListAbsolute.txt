@@ -1,0 +1,15 @@
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\bin\Debug\net6.0\AZ.exe
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\bin\Debug\net6.0\AZ.deps.json
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\bin\Debug\net6.0\AZ.runtimeconfig.json
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\bin\Debug\net6.0\AZ.dll
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\bin\Debug\net6.0\AZ.pdb
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.csproj.AssemblyReference.cache
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.AssemblyInfoInputs.cache
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.AssemblyInfo.cs
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.csproj.CoreCompileInputs.cache
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.dll
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\refint\AZ.dll
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.pdb
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\AZ.genruntimeconfig.cache
+C:\Users\vamsikrishna.akkala\IdeaProjects\AZ\obj\Debug\net6.0\ref\AZ.dll
