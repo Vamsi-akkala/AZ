@@ -1,8 +1,20 @@
-# import calendar
-# year=2023
-# month=7
-# x=calendar.month(year,month)
-# print(x)
+# from azure.cli.core import get_default_cli
+#
+# def az_cli (args_str):
+#     args = args_str.split()
+#     cli = get_default_cli()
+#     cli.invoke(args)
+#     if cli.result.result:
+#         return cli.result.result
+#     elif cli.result.error:
+#         raise cli.result.error
+#     return True
+#
+#     from azhelper import az_cli
+#
+#     response = az_cli("vm list")
+#     print("vm's: %s" %
+
 
 
 import os
@@ -31,7 +43,7 @@ if disk_usage_percent > threshold:
             if os.stat(path).st_mtime < one_month_ago.timestamp():
                 os.remove(path)
                 #print(f"Disk usage: {disk_usage_percent:.2f}%")
-                print(disk_usage_percent)
+                print(threshold)
                 print(f"Deleting {path}")
 
                 #time.sleep(60)

@@ -1,10 +1,3 @@
-# import calendar
-# year=2023
-# month=7
-# x=calendar.month(year,month)
-# print(x)
-
-
 import os
 import shutil
 import datetime
@@ -31,7 +24,7 @@ if disk_usage_percent > threshold:
             if os.stat(path).st_mtime < one_month_ago.timestamp():
                 os.remove(path)
                 #print(f"Disk usage: {disk_usage_percent:.2f}%")
-                print(disk_usage_percent)
+                print(threshold)
                 print(f"Deleting {path}")
 
                 #time.sleep(60)
